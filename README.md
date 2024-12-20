@@ -1,7 +1,7 @@
 # ID3 Decision Trees README
  **Project**: ID3 Decision Trees + Random Forest<br>
  **Class**: Northwestern CS 349 Fall 2024<br>
- **Contributers**: Raymond Gu, Mimi Zhang, Alxin Xu, Rhema Phiri, Eshan Haq
+ **Contributers**: Raymond Gu, Mimi Zhang, Alvin Xu, Rhema Phiri, Eshan Haq
 
 ## ID3 File
 The `ID3.py` file contains all the functions and class needed to create a decision tree using the ID3 algorithm.<br>
